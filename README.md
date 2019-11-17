@@ -1,2 +1,2 @@
-# Live-Face-Detection
-Live Face Detection using openCV
+# Real-Time-Face-Detection
+Real time Face Detection using openCV
